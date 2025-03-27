@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-I´m currently attending my fourth year of college, on track to get my degree in Systems Engineering<br><br>In my free time, I usually read some manga or watch anime, or just chill with family or friends
+I´m currently attending my fourth year of college, on track to get my degree in Systems Engineering and I almost got my programmer degree (only tow exams left)<br><br>In my free time, I usually read some manga or watch anime, or just chill with family or friends
 
 
 ## 🌐 Socials:
