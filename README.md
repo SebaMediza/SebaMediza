@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, my name is Sebastian, but everyone calls me Sebas
+# 👋 Hi, my name is Sebastian, but everyone calls me Sebas
 
 
 # 💫 About Me:
